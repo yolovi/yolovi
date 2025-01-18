@@ -11,9 +11,9 @@
 
 🐕 It's a fact: I love watching my dog’s ears bounce in sync with his tiny steps as he happily strolls through the fields during our walks—it never fails to make me smile.
 
-### 📩 How to reach me: 
-- e-mail: yolandalopevi@gmail.com
-- <a href="https://www.linkedin.com/in/yolovi" target="_blank">Linkedin</a> 
+<!-- ### 📩 How to reach me: 
+<a href="mailto:yolandalopevi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/yolovi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
 
 ## Tech
@@ -51,11 +51,11 @@
 [![My Skills](https://skillicons.dev/icons?i=jest	)](https://jestjs.io/es-ES/) -->
 
 
-### ⚡ Let's code:
+### ⚡ Let's code
 I'm always looking for new challenges and opportunities to learn and grow. If you have a project or idea that you'd like to collaborate on, feel free to reach out to me. I'm always
 open to new ideas and experiences.
 
+<a href="mailto:yolandalopevi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/yolovi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ---
 <a href="https://skillicons.dev/" target="_blank">icons</a>
