@@ -32,6 +32,8 @@
 [![My Skills](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 
 #### ¿What's next?
 [![My Skills](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
@@ -39,8 +41,6 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=d3		)](https://d3js.org/)
 [![My Skills](https://skillicons.dev/icons?i=aws	)](https://aws.amazon.com/es/?nc2=h_lg)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 
 <!-- //next
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/)
